@@ -1,4 +1,4 @@
-## Family Sleeps | Family Genomics
+## Family Genomics
 
 <!--
 
@@ -12,12 +12,6 @@
 -->
 
 
-Our "FamilySleeps" project will be the first study to investigate circadian rhythms in families. We will do this in the context of genetic, environmental, and social synchrony in families with neurodevelopmental conditions. This project has received funding from a European Research Council (ERC) Starting Investigator Grant awarded to Dr Lorna Lopez, under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 950010).
+The research mission of the Family Genomics research group is to generate knowledge, connections, and expertise on the role of genetics in neuropsychiatric and neurodevelopmental conditions​
 
-​
-
-We are building a team of scientific and clinical researchers, with public patient involvement experts, to work on the underlying biological basis of disrupted circadian rhythms in families. This understanding will help address sleep disruption and other poor outcomes in families with autism, as well as increasing our understanding of the role of circadian rhythms in neurodevelopment in a family context.
-
-​
-
-If you would like to know more about this project, please read the following Irish Times article Autism and sleep disruption – a family affair.
+If you would like to know more about the group, please visit our website on https://www.familygenomics.maynoothuniversity.ie/
